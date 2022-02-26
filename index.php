@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
 <html>
     <head>
         <meta charset="utf-8">
@@ -12,26 +8,103 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="">
 
-        <style>
-            #content {
-                display: block;               
-                
-            }
-
-            .internal {
-                display: block;
-            }
-        </style>
+        <!-- Vendor CSS Files -->
+        <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+        <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+        <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+        <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+        <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+        <!-- Template Main CSS File -->
+        <link href="assets/css/style.css" rel="stylesheet">
         
     </head>
     <body>
+        
+    <!-------------------- Start div for cover ----------------->
+        <div class="cover-background">
+            <div class="header-border-cover">
+                <div class="top-left-corner-cover"></div>
+                <div class="top-right-corner-cover"></div>
+            </div>
 
-        <div class="container external internal" id="content">
-            <div class="row" style="width=100%; height=100%; background-color: blue; border: black 100px solid;">
-                <div class="col">1 of 2</div>
-                <div class="col">2 of 2</div>
+            <div class="frame-invitation-name">
+                <div class="col-6" style="border: 1px solid black;">
+                    <h1>;lksdfks;ldkfsdkfzxcxmczxmc.,mzc.,mxz.,cmzxmzcm.,zxmc.,zmc.,zmczmcxzmczmczmcx.zx;ldsf</h1>
+                </div>
+            </div>
+
+            <div class="footer-border-cover">
+                <div class="bottom-left-corner-cover"></div>
+                <div class="bottom-right-corner-cover"></div>
             </div>
         </div>
+    <!-------------------- End div for cover ----------------->
+
+    <!-------------------- Start div for second page ----------------->
+        <div class="second-background">
+            <div class="header-border">
+                <div class="top-left-corner"></div>
+                <div class="top-right-corner"></div>
+            </div>
+            <div class="footer-border">
+                <div class="bottom-left-corner"></div>
+                <div class="bottom-right-corner"></div>
+            </div>
+        </div>
+    <!-------------------- End div for second page ----------------->
+
+    <!-------------------- Start div for third page ----------------->
+        <div class="third-background">
+            <div class="header-border">
+                <div class="top-left-corner"></div>
+                <div class="top-right-corner"></div>
+            </div>
+            <div class="footer-border">
+                <div class="bottom-left-corner"></div>
+                <div class="bottom-right-corner"></div>
+            </div>
+        </div>
+    <!-------------------- End div for third page ----------------->
+
+    <!-------------------- Start div for fourth page ----------------->
+        <div class="fourth-background">
+            <div class="header-border">
+                <div class="top-left-corner"></div>
+                <div class="top-right-corner"></div>
+            </div>
+            <div class="footer-border">
+                <div class="bottom-left-corner"></div>
+                <div class="bottom-right-corner"></div>
+            </div>
+        </div>
+    <!-------------------- End div for fourth page ----------------->
+
+    <!-------------------- Start div for fiveth page ----------------->
+        <div class="fiveth-background">
+            <div class="header-border">
+                <div class="bottom-left-corner"></div>
+                <div class="bottom-right-corner"></div>
+            </div>
+            <div class="footer-border">
+                <div class="bottom-left-corner"></div>
+                <div class="bottom-right-corner"></div>
+            </div>
+        </div>
+    <!-------------------- End div for fiveth page ----------------->
+
+    <!-------------------- Start div for sixth page ----------------->
+        <div class="sixth-background">
+            <div class="header-border">
+                <div class="top-left-corner"></div>
+                <div class="top-right-corner"></div>
+            </div>
+            <div class="footer-border">
+                <div class="bottom-left-corner"></div>
+                <div class="bottom-right-corner"></div>
+            </div>
+        </div>
+    <!-------------------- End div for second page ----------------->
         
         <script src="" async defer></script>
     </body>
