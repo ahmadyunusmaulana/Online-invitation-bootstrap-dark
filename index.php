@@ -29,8 +29,11 @@
             </div>
 
             <div class="frame-invitation-name">
-                <div class="col-6" style="border: 1px solid black;">
-                    <h1>;lksdfks;ldkfsdkfzxcxmczxmc.,mzc.,mxz.,cmzxmzcm.,zxmc.,zmc.,zmczmcxzmczmczmcx.zx;ldsf</h1>
+                <div class="col-5" style="border: 5px solid black; height: 100vh; float: left;">
+                </div>
+                <div class="col-2" style="border: 5px solid black; height: 100vh; float: left;">
+                </div>
+                <div class="col-5" style="border: 5px solid aqua; height: 100vh; float: left;">
                 </div>
             </div>
 
